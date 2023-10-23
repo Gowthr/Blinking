@@ -1,0 +1,4 @@
+name: Blinking
+version: '${project.version}'
+main: me.gowthr.blinking.Blinking
+api-version: '1.20'
