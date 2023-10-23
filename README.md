@@ -1,2 +1,2 @@
 # blinking
-Self explanatory.
+Just like real life!
