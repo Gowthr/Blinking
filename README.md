@@ -1,2 +1,0 @@
-# blinking
-Self explanatory.
