@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.gowthr</groupId>
-    <artifactId>Blinking</artifactId>
-    <version>1.0</version>
+    <artifactId>NoMorePearl</artifactId>
+    <version>2.0</version>
     <packaging>jar</packaging>
 
-    <name>Blinking</name>
+    <name>NoMorePearl</name>
 
     <properties>
         <java.version>1.8</java.version>
@@ -37,9 +37,6 @@
                         <goals>
                             <goal>shade</goal>
                         </goals>
-                        <configuration>
-                            <createDependencyReducedPom>false</createDependencyReducedPom>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>

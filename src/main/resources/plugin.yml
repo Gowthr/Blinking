@@ -1,4 +1,4 @@
-name: Blinking
+name: NoMorePearl
 version: '${project.version}'
-main: me.gowthr.blinking.Blinking
+main: me.gowthr.nomorepearl.NoMorePearl
 api-version: '1.20'
