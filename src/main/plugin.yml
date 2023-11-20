@@ -1,4 +1,0 @@
-name: Blinking
-version: '1.0'
-main: me.gowthr.blinking.Blinking
-api-version: '1.20'
