@@ -1,4 +1,0 @@
-name: NoMorePearl
-version: '${project.version}'
-main: me.gowthr.nomorepearl.NoMorePearl
-api-version: '1.20'
